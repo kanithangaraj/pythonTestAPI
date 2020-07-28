@@ -9,7 +9,7 @@ books = [{"id": 1,"title": "A Fire Upon the Deep","author": "Vernor Vinge","firs
           "author": "Ursula K. Le Guin",
           "first_sentence": "With a clamor of bells that set the swallows soaring, the Festival of Summer came to the city Omelas, bright-towered by the sea.",
           "published": "1973"},
-         {"id": 3,
+         {"id": 4,
           "title": "Dhalgren",
           "author": "Samuel R. Delany",
           "first_sentence": "to wound the autumnal city.",
